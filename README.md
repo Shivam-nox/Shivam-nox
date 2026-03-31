@@ -71,7 +71,7 @@ Git • GitHub • Render • Axios
 ## 📫 Let's Connect
 
 📧 Email: [shvm945@gmail.com](mailto:shvm945@gmail.com)
-💼 LinkedIn: https://www.linkedin.com/in/shivam-dwivedi-099885330/
+💼 LinkedIn: [Linkedin Profile](https://www.linkedin.com/in/shivam-dwivedi-099885330/)
 🐙 GitHub: https://github.com/Shivam-nox
 
 ---
