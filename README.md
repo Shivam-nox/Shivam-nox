@@ -6,7 +6,7 @@
 
 # 👋 Hi, I'm Shivam Dwivedi
 
-📧 **Email:** [shvm945@gmail.com](mailto:shvm945@gmail.com) | 💼 **LinkedIn:** [Shivam Dwivedi](https://www.linkedin.com/in/shivam-dwivedi-099885330/)
+📧 **Email:** [shvm945@gmail.com](mailto:shvm945@gmail.com) | 💼 **LinkedIn:** [Shivam Dwivedi](https://www.linkedin.com/in/shivam-dwivedi-099885330/) | 🫡 **Portfolio**:[Portfolio Link](https://personal-portfolio-seven-lemon-44.vercel.app/)
 
 🎓 **B.Tech CSE @ NIT Mizoram** (CGPA: 9.11) — *Expected 2027*
 💻 **Full-Stack Developer** | Building scalable web & mobile apps
