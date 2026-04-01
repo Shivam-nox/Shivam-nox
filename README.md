@@ -6,6 +6,8 @@
 
 # 👋 Hi, I'm Shivam Dwivedi
 
+📧 **Email:** [shvm945@gmail.com](mailto:shvm945@gmail.com) | 💼 **LinkedIn:** [Shivam Dwivedi](https://www.linkedin.com/in/shivam-dwivedi-099885330/)
+
 🎓 **B.Tech CSE @ NIT Mizoram** (CGPA: 9.11) — *Expected 2027*
 💻 **Full-Stack Developer** | Building scalable web & mobile apps
 
@@ -15,17 +17,17 @@
 
 I develop production-ready applications, bridging the gap between robust backend systems and intuitive frontend interfaces. 
 
-* Software Development Intern at **Nelumbus Technologies LLP**.
-* Contributing to microservices architecture and seamless hardware-to-web data communication at **Zapygo Energy**.
+* **Software Development Intern at Zapygo Energy Pvt. Ltd.** — Contributing to microservices architecture and enabling seamless hardware-to-web data communication for IoT integrations.
+* **Past Experience:** Full-Stack Developer at Navodita Infotech, building out frontend components and backend APIs.
 * Actively building my personal portfolio and leveling up in Data Structures and Algorithms to crack top-tier SDE roles.
 
 ---
 
 ## 🚀 Featured Projects
 
-* **Spendly (Expense Habit Coach):** A comprehensive financial coaching mobile app designed to help users track and improve their spending habits.
+* **Spendly (Expense Habit Coach):** A cross-platform mobile application utilizing React Native, Node.js, and the Grok API to provide personalized, AI-driven financial insights and track spending habits.
 * **WanderLust:** A robust full-stack web application featuring dynamic UI components and solid backend integration.
-* **Zerodha Clone:** A functional clone of the popular stock trading platform, built to master complex state management and responsive design.
+* **Zerodha Clone:** A fully responsive, single-page trading dashboard replicating Zerodha’s interface, built to master complex state management and API integration.
 
 ---
 
@@ -42,21 +44,12 @@ I develop production-ready applications, bridging the gap between robust backend
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Shivam-nox&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam-nox&theme=tokyonight&cache_seconds=86400" height="160"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Shivam-nox&layout=compact&theme=tokyonight" height="160"/>
 </p>
-
----
-
-## 📫 Let's Connect
-
-📧 **Email:** [shvm945@gmail.com](mailto:shvm945@gmail.com)
-💼 **LinkedIn:** [Shivam Dwivedi](https://www.linkedin.com/in/shivam-dwivedi-099885330/)
-🐙 **GitHub:** [Shivam-nox](https://github.com/Shivam-nox)
 
 ---
 
