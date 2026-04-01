@@ -2,9 +2,12 @@ name: Generate Contribution Snake
 
 on:
   schedule:
-    # Runs at 12 AM UTC every day
     - cron: "0 0 * * *" 
-  workflow_dispatch: # Allows you to run it manually
+  workflow_dispatch:
+
+# Add this block to give the bot push access
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -14,7 +17,6 @@ jobs:
       
       - uses: Platane/snk@v3
         with:
-          # github_user_name will automatically use your username (Shivam-nox)
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
